@@ -166,6 +166,8 @@ body::before {
   bottom: 0;
   right: 0;
   margin: 20px;
+  border: 1px solid red;
+  padding-top: 30px;
 }
 
 .footer-text, a{
