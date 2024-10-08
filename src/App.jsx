@@ -103,7 +103,7 @@ function App() {
       {isLoading && <p className="loading">Loading...</p>}
       {error.hasError && <p style={{ color: "red" }}>{error.message}</p>}
 
-      <div className="card-container">
+      <div className="card-container" style={{marginBottom:"90px"}}>
         {memoizedUserData.length > 0 &&
           memoizedUserData.map((user) => <Cards key={user.id} user={user} />)}
       </div>
