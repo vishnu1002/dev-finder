@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://thedevfinder.pages.dev/sitemap.xml
