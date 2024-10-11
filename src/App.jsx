@@ -86,7 +86,7 @@ function App() {
       <p className="logo">DevFinder.</p>
 
       <header className="header-content">
-        <h1 className="header-text">"Connect, Collaborate, and Code"</h1>
+        <h1 className="header-text">"Connect, Collaborate, and Code</h1>
         <h1 className="header-text">with GitHub Developers"</h1>
         <Input
           className="search-bar"
