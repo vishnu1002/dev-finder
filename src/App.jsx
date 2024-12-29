@@ -110,7 +110,7 @@ function App() {
 
       <footer className={`footer ${memoizedUserData.length === 0 ? "visible" : ""}`}>
         <p className="footer-text">
-          View DevFinder on{" "}
+          View DevFinder. on{" "}
           <a href="https://github.com/vishnu1002/dev-finder" target="_blank" rel="noopener noreferrer">
             Github
           </a>
